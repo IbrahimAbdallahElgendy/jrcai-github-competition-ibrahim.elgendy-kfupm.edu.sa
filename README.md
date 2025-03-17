@@ -1,6 +1,4 @@
 # jrcai-github-competition-ibrahim.elgendy-kfupm.edu.sa
-**
-Welcome to the KFUPM GitHub Competition!
 
 # 🚀 KFUPM GitHub Competition
 
